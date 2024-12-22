@@ -217,7 +217,7 @@ declare interface RightSidebarProps {
   transactions: Transaction[];
   banks: Bank[] & Account[];
 }
-
+  
 declare interface SiderbarProps {
   user: User;
 }
